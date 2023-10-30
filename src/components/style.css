@@ -1,0 +1,10 @@
+thead{
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 0px 7px 0px 7px;
+}
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: 5px 5px 5px 5px;
+}
